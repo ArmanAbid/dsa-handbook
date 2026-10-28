@@ -10,7 +10,7 @@ Always consider the maximum allowed input, not just the small examples.
 
 ## 2. Estimate the Required Complexity
 
-hese are only general guidelines and not rules.
+These are only general guidelines and not rules.
 
 | Input size       | Approaches worth considering             |
 |------------------|------------------------------------------|
